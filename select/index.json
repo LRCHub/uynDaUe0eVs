@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あくなき鼓動",
+  "base_artist": "O-VER-KiLL",
+  "createdAt": "2025-12-26T15:20:36.485469Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あくなき鼓動",
+      "artist": "O-VER-KiLL",
+      "has_synced": false,
+      "path": "select/pl_01_あくなき鼓動_O-VER-KiLL.txt"
+    }
+  ]
+}
